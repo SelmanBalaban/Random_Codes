@@ -1,3 +1,5 @@
+%factorial
+
 number=input('please enter a number whivh you want to find its factorial: ');
 factorial=1;
 
